@@ -1,0 +1,32 @@
+/* Estilos para o corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Estilos para o botão */
+#showListBtn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#showListBtn:hover {
+  background-color: #0056b3;
+}
+
+/* Estilos para a lista de alunos */
+.studentList {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Estilos para a imagem */
+#projectImage {
+  margin-top: 20px;
+  max-width: 100%;
+}
